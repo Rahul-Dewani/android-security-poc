@@ -38,7 +38,7 @@ This project simulates an info-stealer that collects device information and exfi
 
 ### How to Run
 1.  Install the Flask library (`pip install Flask`).
-2.  Run the `web_server.py` script on your machine (`python web_server.py`).
+2.  Run the `collection_server.py` script on your machine (`python collection_server.py`).
 3.  Install and run the Android app in an emulator.
 4.  Click the "Send Mock Data" button in the app.
 5.  Observe the JSON output in the web server's terminal.
